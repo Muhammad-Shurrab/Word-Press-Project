@@ -1,8 +1,7 @@
 # Word-Press-Project
 
 
-- [Trello]([https://github.com/user-attachments/assets/4d77c455-1983-41ed-ba58-e6e0f6406819](https://trello.com/b/kqkcq5rr/word-press))
-
+- [Trello Board]([https://trello.com/b/AanBLBXd/eco-action](https://trello.com/b/kqkcq5rr/word-press))
 
 
 
